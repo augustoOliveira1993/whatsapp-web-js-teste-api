@@ -1,0 +1,10 @@
+node_modules
+.wwebjs_auth
+.wwebjs_cache
+.wwebjs_config
+
+package-lock.json
+yarn-error.log
+yarn.lock
+
+sessionLocal
